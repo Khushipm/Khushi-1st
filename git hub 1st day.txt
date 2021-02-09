@@ -1,2 +1,4 @@
+MY NME IS KHUSHI
+
 Today is my 1st day in git hub.
  I am learning and exploring this.
