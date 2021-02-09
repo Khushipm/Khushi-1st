@@ -1,4 +1,6 @@
 MY NME IS KHUSHI
 
+I like coding
+
 Today is my 1st day in git hub.
  I am learning and exploring this.
